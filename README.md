@@ -1,5 +1,5 @@
 ##  Titanic Survival Prediction Using Machine Learning
-This is a Practice project for the IBM Data Science Professional certificate where I have used Machine Learning to predict the survival of passengers in Titanic Shipp using data. 
+This is a Practice project for the IBM Data Science Professional certificate where I have used Machine Learning to predict the survival of passengers in Titanic Ship using data. 
 
 # Importing Libraries
 In this project, I import essential libraries that play pivotal roles in enhancing data manipulation and visualization capabilities:
